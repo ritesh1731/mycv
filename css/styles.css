@@ -113,6 +113,7 @@ p{
     display: inline-block;
     height:30px;
     width: 30px;
+    margin-left: 15px;
 
   }
   .linkin{
@@ -129,6 +130,7 @@ p{
     display: inline-block;
     height: 30px;
     width: 30px;
+    margin-left: 20px;
   }
   .endp
   {
@@ -150,7 +152,9 @@ p{
     font-weight: bold;
     color: white;
     margin: auto;
-  font-family: 'Merriweather', serif;
+    font-family: 'Merriweather', serif;
+    position: relative;
+    top: 5px;
   }
   .contact:hover{
     background-color: #7ebdb4;
