@@ -146,15 +146,16 @@ p{
     margin:60px auto 100px auto;
     background-color: #11999E;
     border-radius: 10px;
+
   }
   .btn{
     font-size: 1.65rem;
     font-weight: bold;
     color: white;
-    margin: auto;
-    font-family: 'Merriweather', serif;
-    position: relative;
-    top: 5px;
+    margin:auto;
+  font-family: 'Merriweather', serif;
+  position: relative;
+  top: 5px;
   }
   .contact:hover{
     background-color: #7ebdb4;
